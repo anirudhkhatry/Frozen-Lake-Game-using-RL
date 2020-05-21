@@ -1,7 +1,7 @@
 # Frozen-Lake-Game-using-RL
 Frozen Lake game played by AI using RL based Approach using Gym AI and Q learning
 
-##Requirements
+## Requirements
 
 `pip install gym`
 
